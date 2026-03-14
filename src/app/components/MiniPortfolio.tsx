@@ -241,7 +241,7 @@ export function MiniPortfolio() {
                   animation: 'gradient 3s ease infinite',
                 }}
               ></div>
-              <span className="relative">Get 20 Creatives</span>
+              <span className="relative">Заказать 20 креативов</span>
             </button>
           </div>
 
